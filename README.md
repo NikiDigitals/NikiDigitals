@@ -33,11 +33,10 @@
 
 [<img align="left" alt="NmLangendam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="NMLangendam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="NMLangendam | Website" width="24px" src="https://static.vecteezy.com/system/resources/previews/000/575/973/original/go-to-website-internet-icon-vector-illustration.jpg" />][website]
 
 [instagram]: https://www.instagram.com/niki_digitals
 [linkedin]: https://linkedin.com/in/nmlangendam/
-[website]: http://www.
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
