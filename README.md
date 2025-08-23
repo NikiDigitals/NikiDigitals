@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicolette!</h1><br> 
+<h1>Hi, I'm Nicolette</h1><br> 
 
 As a BSc (Hons) Computing and IT with Business student and ACCA candidate, I’m building expertise through academic study, professional certifications, and hands-on projects.
 My passion lies in bridging finance and technology to transform the digital and financial landscape of global business and empowering organisations to lead with agility, insight, and future-focused performance.
