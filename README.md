@@ -18,18 +18,18 @@ On this github you can find my:
 [Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
    
 
-<h2> Portfolio Projects:</h2>
+<h2> :red_circle: Portfolio Projects:</h2>
 
 - <b>sub subject</b>
   - [Placeholder](https://github)
    
-<h2> Computing & IT with Business </h2>
+<h2> :yellow_circle: Computing & IT with Business </h2>
 
 - <b>sub subject</b>
   - [Placeholder](https://github)
   - [Placeholder](https://github)
 
-<h2> Finance & Accounting </h2>
+<h2> :large_blue_circle: Finance & Accounting </h2>
 
 - <b> ACCA</b>
   - [Placeholder](https://github)
@@ -40,7 +40,7 @@ On this github you can find my:
   - [Placeholder](https://github)
  
   - 
-<h2> Certifications </h2>
+<h2> :green_circle: Certifications </h2>
 
 - <b>Audit, Risk & Governance</b>
   - [ISACA - IT-Audit Fundamentals](https://github.com/NikiDigitals/ISACA-IT-AuditFundamentals)
