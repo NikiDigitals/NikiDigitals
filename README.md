@@ -11,12 +11,11 @@ My key focus:
 •	Technology-driven innovation
 
 On this github you can find my:
-- Study logs
 - Project protfolio
 - Academic and professional education
 - Certifications 
 
-[Study log](https://github.com/NikiDigitals/log/tree/main)
+[Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
    
 
 <h2> Portfolio Projects:</h2>
