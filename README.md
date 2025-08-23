@@ -1,5 +1,11 @@
 <h1>Hi, I'm Nicolette! <br/>
 
+<h2> Activity log:</h2>
+
+- <b>sub subject</b>
+  - [Placeholder](https://github)
+   
+
 <h2> Portfolio Projects:</h2>
 
 - <b>sub subject</b>
