@@ -1,9 +1,22 @@
-<h1>Hi, I'm Nicolette! <br/>
+<h1>Hi, I'm Nicolette!</h1><br> 
 
-<h2> Activity log:</h2>
+As a BSc (Hons) Computing and IT with Business student and ACCA candidate, I’m building expertise through academic study, professional certifications, and hands-on projects.
+My passion lies in bridging finance and technology to transform the digital and financial landscape of global business and empowering organisations to lead with agility, insight, and future-focused performance.
 
-- <b>sub subject</b>
-  - [Placeholder](https://github)
+My key focus:
+•	Digital finance
+•	ERP and enterprise systems integration
+• Risk management, IT governance, and cybersecurity
+•	Secure information systems
+•	Technology-driven innovation
+
+On this github you can find my:
+- Study logs
+- Project protfolio
+- Academic and professional education
+- Certifications 
+
+[Activity log](https://github.com/NikiDigitals/log/tree/main)
    
 
 <h2> Portfolio Projects:</h2>
