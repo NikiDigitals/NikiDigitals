@@ -24,7 +24,7 @@ My key focus:
    - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)
       ACCA prep, financial analysis, and accounting resources.
      
-   - [📑 Other Certifications](https://github)
+   - [📑 Other Certifications](https://github.com/NikiDigitals/Other-Certifications)
       SAP, ServiceNow, Isaca,  and other certifications.  
 <br>
 
