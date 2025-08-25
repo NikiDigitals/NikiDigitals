@@ -26,15 +26,15 @@ My key focus:
      
    - [📑 Other Certifications](https://github)
       SAP, ServiceNow, Isaca,  and other certifications.  
+<br>
 
-
-## 📊 Current Focus
+## ⚡  Current Focus
 ![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)  
 ![ACCA](https://img.shields.io/badge/ACCA-Knowledge_Level-red)   
 ![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green)  
 ![ServiceNow](https://img.shields.io/badge/ServiceNOw-Certified_system_administration-yellow)   
 ![ISACA](https://img.shields.io/badge/ISACA-IT_audit_Fundamentals-purple)   
-
+<br>
 <h2> Higlighted Projects:</h2>
 
 - <b>Projects</b>
