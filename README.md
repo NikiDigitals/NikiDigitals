@@ -21,7 +21,7 @@ My key focus:
    - [🎓 Computing & It with Business](https://github.com/NikiDigitals/Computing-It-with-Business-)
      Notes, coursework, and progress from my Open University degree.
      
-   - [📊 Finance and accounting](https://github)
+   - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)
       ACCA prep, financial analysis, and accounting resources.
      
    - [📑 Other Certifications](https://github)
