@@ -18,7 +18,7 @@ My key focus:
    - [💼portfolio projects](https://github.com/NikiDigitals/Portfolio_Projects)
      Hands-on projects in data, finance, and enterprise systems.
      
-   - [🎓 Computing & It with Business](https://github)
+   - [🎓 Computing & It with Business]([https://github](https://github.com/NikiDigitals/Computing-It-with-Business-)
      Notes, coursework, and progress from my Open University degree.
      
    - [📊 Finance and accounting](https://github)
