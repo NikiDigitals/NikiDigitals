@@ -10,26 +10,26 @@ My key focus:
 •	Secure information systems
 •	Technology-driven innovation
 
-On this github you can find my:
-- Project protfolio
-- Academic and professional education
-- Certifications 
+<h2> On this GitHub, you can find my: </h2>
 
-[Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
-   
+   - [Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
+   - [All portfolio projects](https://github)
+   - [All Computing & It with Business](https://github)
+   - [All Finance and accounting](https://github)
+   - [All Other Certifications](https://github)  
 
-<h2> :red_circle: Portfolio Projects:</h2>
-
-- <b>sub subject</b>
-  - [Placeholder](https://github)
-   
-<h2> :yellow_circle: Computing & IT with Business </h2>
+<h2> :red_circle: Higlighted Portfolio Projects:</h2>
 
 - <b>sub subject</b>
   - [Placeholder](https://github)
+   
+<h2> :yellow_circle: Highlighted Computing & IT with Business </h2>
+
+- <b>sub subject</b>
+  - [Placeholder](https://github)
   - [Placeholder](https://github)
 
-<h2> :large_blue_circle: Finance & Accounting </h2>
+<h2> :large_blue_circle: Hightlighted Finance & Accounting </h2>
 
 - <b> ACCA</b>
   - [Placeholder](https://github)
@@ -40,12 +40,12 @@ On this github you can find my:
   - [Placeholder](https://github)
  
   - 
-<h2> :green_circle: Certifications </h2>
+<h2> :green_circle: Highlighted Certifications </h2>
 
 - <b>Audit, Risk & Governance</b>
   - [ISACA - IT-Audit Fundamentals](https://github.com/NikiDigitals/ISACA-IT-AuditFundamentals)
   - [Placeholder](https://github)
-  
+  - [Placeholder](https://github)
 
   
 <h2> Connect with me:</h2>
@@ -59,6 +59,8 @@ On this github you can find my:
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://getdrawings.com/vectors/line-break-vector-27.png" height="10%" width="80%" alt="Disk Sanitization Steps"/>
 
 Here are some ideas to get you started:
 
