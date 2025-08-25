@@ -12,35 +12,43 @@ My key focus:
 
 <h2> On this GitHub, you can find my: </h2>
 
-   - [Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
-   - [All portfolio projects](https://github)
-   - [All Computing & It with Business](https://github)
-   - [All Finance and accounting](https://github)
-   - [All Other Certifications](https://github)  
+   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
+     Daily one-liners of what I’ve learned & practised.  
 
-<h2> :red_circle: Higlighted Portfolio Projects:</h2>
+   - [💼portfolio projects](https://github)
+     Hands-on projects in data, finance, and enterprise systems.
+     
+   - [🎓 Computing & It with Business](https://github)
+     Notes, coursework, and progress from my Open University degree.
+     
+   - [📊 Finance and accounting](https://github)
+      ACCA prep, financial analysis, and accounting resources.
+     
+   - [📑 Other Certifications](https://github)
+      SAP, ServiceNow, Isaca,  and other certifications.  
 
-- <b>sub subject</b>
+
+## 📊 Current Focus
+![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)  
+![ACCA](https://img.shields.io/badge/ACCA-Knowledge_Level-red)   
+![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green)  
+![ServiceNow](https://img.shields.io/badge/ServiceNOw-Certified_system_administration-yellow)   
+![ISACA](https://img.shields.io/badge/ISACA-IT_audit_Fundamentals-purple)   
+
+<h2> Higlighted Projects:</h2>
+
+- <b>Projects</b>
   - [Placeholder](https://github)
    
-<h2> :yellow_circle: Highlighted Computing & IT with Business </h2>
-
-- <b>sub subject</b>
+- <b>Computing & It with business</b>
   - [Placeholder](https://github)
   - [Placeholder](https://github)
 
-<h2> :large_blue_circle: Hightlighted Finance & Accounting </h2>
+- <b> Finance & Accounting </b>
+  - [Placeholder](https://github)
+  - [Placeholder](https://github)
 
-- <b> ACCA</b>
-  - [Placeholder](https://github)
-  - [Placeholder](https://github)
-    
- - <b>CFI FMVA</b>
-  - [Placeholder](https://github)
-  - [Placeholder](https://github)
- 
-  - 
-<h2> :green_circle: Highlighted Certifications </h2>
+<h2> Highlighted Certifications </h2>
 
 - <b>Audit, Risk & Governance</b>
   - [ISACA - IT-Audit Fundamentals](https://github.com/NikiDigitals/ISACA-IT-AuditFundamentals)
