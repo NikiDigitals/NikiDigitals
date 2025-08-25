@@ -15,7 +15,7 @@ My key focus:
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
      Daily one-liners of what I’ve learned & practised.  
 
-   - [💼portfolio projects](https://github)
+   - [💼portfolio projects](https://github.com/NikiDigitals/Portfolio_Projects)
      Hands-on projects in data, finance, and enterprise systems.
      
    - [🎓 Computing & It with Business](https://github)
