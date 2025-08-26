@@ -15,7 +15,7 @@ My key focus:
    - [📓Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses)
      A list of all my certifications and courses 
 
-   - [💼Projects, Case Studies & Writings](https://github.com/NikiDigitals/QA_Projects_Case_Write)
+   - [💼Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write)
      A list off all my projects, case studies and writings
       
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
