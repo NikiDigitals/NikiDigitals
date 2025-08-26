@@ -12,10 +12,10 @@ My key focus:
 
 <h2> ⚡ Quick Access lists </h2>
 
-   - [📓Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
+   - [📓Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses)
      A list of all my certifications and courses 
 
-   - [💼Projects, Case Studies & Writings](https://github.com/NikiDigitals/Portfolio_Projects)
+   - [💼Projects, Case Studies & Writings](https://github.com/NikiDigitals/QA_Projects_Case_Write)
      A list off all my projects, case studies and writings
       
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
