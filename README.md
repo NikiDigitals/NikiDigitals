@@ -25,7 +25,7 @@ It’s a space where I document my learning journey and experiment with ideas.
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
      Daily one-liners of what I’ve learned & practised.     
 <br>
-<h2> 📂 Explore by main subjects: </h2>
+<h2> 📂 Explore by main subject: </h2>
 
 
    - [💼portfolio projects](https://github.com/NikiDigitals/Portfolio_Projects)
@@ -37,7 +37,7 @@ It’s a space where I document my learning journey and experiment with ideas.
    - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)
       ACCA prep, financial analysis, and accounting resources.
      
-   - [📑 Other Certifications](https://github.com/NikiDigitals/Other-Certifications)
+   - [📑 Other Subjects and Certifications](https://github.com/NikiDigitals/Other-Certifications)
       SAP, ServiceNow, Isaca, and other certifications like Microeconomics and Mathematics
 
 <br>
@@ -63,7 +63,8 @@ It’s a space where I document my learning journey and experiment with ideas.
 - All notes, projects, and case studies here are part of my personal learning journey.
 - They are not official study materials and may contain mistakes or incomplete information.
 - My notes may reference official course material, but everything is rewritten in my own words.
-- Many projects/assignments are inspired by official prompts, case studies, or datasets, but what you see here is my independent work and interpretation.
+- Many projects/assignments are inspired by official prompts, case studies, or datasets;
+  However, everything you see here is my independent work and interpretation.
 - I respect academic integrity: I never post ongoing assignments, exams, or subscription-only material.
 - All external resources are properly credited, and all work here is my own creation unless otherwise stated.
 
