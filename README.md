@@ -11,7 +11,7 @@ My key focus:
 •	Technology-driven innovation
 
 This GitHub functions as my portfolio. It contains my notes, projects, and assignments from different subjects and courses. 
-It’s a space where I document my learning journey and experiment with ideas.
+It’s a space where I document my learning journey, experiment with ideas, and develop my skill set.
 
 
 <h2> ⚡ Quick Access lists </h2>
