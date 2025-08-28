@@ -68,7 +68,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 - I respect academic integrity: I never post ongoing assignments, exams, or subscription-only material.
 - All external resources are properly credited, and all work here is my own creation unless otherwise stated.
 
-👉 Full details [Code of Practice](https://github.com/NikiDigitals/NikiDigitals/blob/main/code%20of%20practice.pdf)
+👉 Full details [Code of Practice](https://github.com/NikiDigitals/NikiDigitals/blob/main/Code%20of%20Practice.pdf)
 
 <img width="603" height="10" alt="image" src="https://github.com/user-attachments/assets/4658e820-34f4-4185-9df9-ec4e642f11e5" />
 
