@@ -6,7 +6,7 @@ My passion lies in bridging finance and technology to transform the digital and 
 My key focus:
 •	Digital finance
 •	ERP and enterprise systems integration
-•  IT Governance, Risk Management, Security
+•  IT Governance, Risk Management, and Security
 •	Secure information systems
 •	Technology-driven innovation
 
