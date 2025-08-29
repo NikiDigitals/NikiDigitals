@@ -71,7 +71,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Implementer-yellow)      
 ![ISACA](https://img.shields.io/badge/ISACA-CISA-purple)   
 
-👉 Complete [📚 Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/tracker)
+👉 Complete [Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker)
 
 
 
