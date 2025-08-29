@@ -4,9 +4,9 @@ status: ✅ Completed | ⏳ In Progress | 📅 Planned
 
 | Topic | Course/Module                 | Provider | progress      | status | Notes            | Link to documents
 |-------|-------------------------------|----------|---------------|--------|------------------|-------------------|
-Finance |FMVA/Financial Analysis | CFI | course 10/25 |⏳ july | aim to finish this course end october |[Doc link](https://example.com) 
+Finance |FMVA/Financial Analysis | CFI | course 10/25 |⏳ July | aim to move on to the next course by the end of October |[Doc link](https://example.com) 
 Finance | Business & Technology | ACCA | course 3/15 |📅 September |Exam in december |[Doc link](https://example.com)
-IT-GRC | IT Audit Fundamentals | ISACA |module 2/6 | ⏳ august| fundamentals|[Doc link](https://example.com)
+IT-GRC | IT Audit Fundamentals | ISACA |module 2/6 | ⏳ August| fundamentals|[Doc link](https://example.com)
 Systems | CSA | ServiceNow |module 1| 📅 September |Part of implementer path |[Doc link](https://example.com)
 Computing & IT | Introduction to Computing and IT part 1 | Open University| Pending|📅 October |Part of my Bachelors degree |[Doc link](https://example.com)
 Business | Introduction to Business and Management | Open University | Pending | 📅 October |Part of my Bachelors degree|[Doc link](https://example.com)
