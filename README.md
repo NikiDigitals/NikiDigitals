@@ -16,16 +16,16 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 
 <h2> ⚡ Quick Access lists </h2>
 
-   - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements)
+   - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements) 
      List of all Completed Certificates & Courses + links for validation purposes
      
-   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook)
+   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
      Daily one-liners of what I’ve learned & practised.          
      
-   - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses)
-     A list of all my certifications and courses.
+   - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses) 
+     A list of all my past and  present certifications and courses.
 
-   - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write)
+   - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write) 
      A list off all my projects, case studies and writings
       
     
@@ -33,25 +33,25 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 <h2> 📂 Explore by main subject: </h2>
 
 
-   - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)
+   - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)  
      Applied projects in all my main Domains
      
-   - [🎓 Computing & IT](https://github.com/NikiDigitals/Computing-IT)
+   - [🎓 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
      Resources, Notes, coursework, and writings.
      
-   - [⭕ IT Governance, Risk & Compliance](https://github.com/NikiDigitals/GRC)
+   - [⭕ IT Governance, Risk & Compliance](https://github.com/NikiDigitals/GRC)  
       Finance, Accounting, financial analysis, and resources.
           
-   - [💻 Enterprise Systems](https://github.com/NikiDigitals/systems)
+   - [💻 Enterprise Systems](https://github.com/NikiDigitals/systems)  
       ERP & enterprise platforms bridging IT & business.
 
-   - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)
+   - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)  
       ACCA prep, financial analysis, and accounting resources.
 
-   - [💼 Business & Management](https://github.com/NikiDigitals/Management-Business)
+   - [💼 Business & Management](https://github.com/NikiDigitals/Management-Business)  
       Strategy, Innovation, entrepreneurship & project management.
      
-   - [📑 Other Subjects](https://github.com/NikiDigitals/others)
+   - [📑 Other Subjects](https://github.com/NikiDigitals/others)  
      Other subjects. 
 <br>
 
