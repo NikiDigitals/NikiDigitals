@@ -17,18 +17,21 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 <h2> ⚡ Quick Access lists </h2>
 
    - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements.md) 
-     List of all Completed Certificates & Courses + links for validation purposes  
-     
-   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
-     Daily one-liners of what I’ve learned & practised.          
-     
+     List of all Completed Certificates & Courses + links for validation purposes
+
    - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses) 
      A list of all my past and  present certifications and courses.
 
    - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write) 
-     A list off all my projects, case studies and writings
-      
-    
+     A list of all my projects, case studies and writings
+
+     <br>
+   - [☑ Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
+     Tracker of all my ongoing current activities. 
+     
+   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
+     Daily one-liners of what I’ve learned & practised.
+ 
 <br>
 <h2> 📂 Explore by main subject: </h2>
 
@@ -71,7 +74,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Implementer-yellow)      
 ![ISACA](https://img.shields.io/badge/ISACA-CISA-purple)   
 
-👉 Complete [Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker)
+👉 Complete [Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
 
 
 
