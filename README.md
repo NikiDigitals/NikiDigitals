@@ -16,7 +16,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 
 <h2> ⚡ Quick Access lists </h2>
 
-   - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements) 
+   - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements.md) 
      List of all Completed Certificates & Courses + links for validation purposes  
      
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
