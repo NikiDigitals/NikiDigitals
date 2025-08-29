@@ -3,7 +3,6 @@
 
 | Topic | Course/Module                 | Provider | progress      | status | Notes            | Link to documents
 |-------|-------------------------------|----------|---------------|--------|------------------|-------------------|
-Finance | FMVA/Financial Analysis | CFI | course 10/25 |in progress since july 2025 | aim to finish this course end october | [Doc link](https://example.com)
 Finance |FMVA/Financial Analysis | CFI | course 10/25 |in progress since july 2025 | aim to finish this course end october |[Doc link](https://example.com) 
 Finance | Business & Technology | ACCA | course 3/15 | planned |Exam in december |[Doc link](https://example.com)
 IT-GRC | IT Audit Fundamentals | ISACA |module 2/6 | in progress since august| fundamentals|[Doc link](https://example.com)
