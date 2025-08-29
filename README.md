@@ -17,7 +17,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 <h2> ⚡ Quick Access lists </h2>
 
    - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements) 
-     List of all Completed Certificates & Courses + links for validation purposes
+     List of all Completed Certificates & Courses + links for validation purposes  
      
    - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
      Daily one-liners of what I’ve learned & practised.          
@@ -34,37 +34,44 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 
 
    - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)  
-     Applied projects in all my main Domains
+     Documenting Hands-on projects, case studies, virtual internships, and applied work across IT, ERP, business and finance.  
+     Demonstrating my ability to translate learning into meaningful, practical outcomes.    
      
    - [🎓 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
-     Resources, Notes, coursework, and writings.
+     Building IT foundations in systems, programming, cloud and data analytics.  
+     Combining Academic modules and professional courses to prepare for complex enterprise solutions. 
+
      
    - [⭕ IT Governance, Risk & Compliance](https://github.com/NikiDigitals/GRC)  
-      Finance, Accounting, financial analysis, and resources.
+     Understanding IT governance, risk management, and security to create compliant systems.  
+     Focuses on protecting enterprises while linking technical controls to business strategy.    
           
    - [💻 Enterprise Systems](https://github.com/NikiDigitals/systems)  
-      ERP & enterprise platforms bridging IT & business.
-
+      Mastering ERP and enterprise platforms to integrate IT with business processes.  
+     Focused on Sap, ServiceNow, Microsoft Dynamics, Oracle Cloud, and practical implementations for Real-World impact.   
+     
    - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)  
-      ACCA prep, financial analysis, and accounting resources.
+    Developing strong financial and management accounting skills, alongside finance fundamentals.  
+    Integrating theory with applied exercises, aligning Finance with enterprise systems and strategic decision-making.  
 
    - [💼 Business & Management](https://github.com/NikiDigitals/Management-Business)  
-      Strategy, Innovation, entrepreneurship & project management.
+     Exploring strategy, entrepreneurship, innovation, and project management.  
+     Bridging academic insights with practical business applications for long-term growth.    
      
    - [📑 Other Subjects](https://github.com/NikiDigitals/others)  
-     Other subjects. 
+     Capturing exploratory and complementary topics.  
+     A space to experiment, connect ideas and expand my long-term professional vision. 
 <br>
 
-## 🎯 Current Focus - snapshot
+## 🎯 Current Focus 
+
+![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)   
+![ACCA](https://img.shields.io/badge/Accca-Member-red)    
+![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green)   
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Implementer-yellow)      
+![ISACA](https://img.shields.io/badge/ISACA-CISA-purple)   
 
 👉 Complete [📚 Study Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studytracker)
-
-![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue) Introduction Computing and Information Technology part 1 | planned October.
-![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue) Introduction Business and Management | planned October.  
-![ACCA](https://img.shields.io/badge/Accca-Member-red) Business & Technology | planned September.  
-![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green) Microeconomics |Economics | in progress.  
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Implementer-yellow) ServiceNow Administration Fundamentals/CSA | in progress.   
-![ISACA](https://img.shields.io/badge/ISACA-CISA-purple)  IT Audit Fundamentals | Auditing | in progress.   
 
 
 
