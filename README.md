@@ -19,17 +19,17 @@ It’s a space where I document my learning journey, experiment with ideas, and 
    - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements.md) 
      List of all Completed Certificates & Courses + links for validation purposes
 
-   - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses) 
+   - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses.md) 
      A list of all my past and  present certifications and courses.
 
-   - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write) 
+   - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
      A list of all my projects, case studies and writings
 
      <br>
    - [☑ Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
      Tracker of all my ongoing current activities. 
      
-   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
+   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook.md) 
      Daily one-liners of what I’ve learned & practised.
  
 <br>
