@@ -1,15 +1,16 @@
+status: ✅ Completed | ⏳ In Progress | 📅 Planned
 
 # Certification & Course Tracker
 
 | Topic | Course/Module                 | Provider | progress      | status | Notes            | Link to documents
 |-------|-------------------------------|----------|---------------|--------|------------------|-------------------|
-Finance |FMVA/Financial Analysis | CFI | course 10/25 |in progress since july 2025 | aim to finish this course end october |[Doc link](https://example.com) 
-Finance | Business & Technology | ACCA | course 3/15 | planned |Exam in december |[Doc link](https://example.com)
-IT-GRC | IT Audit Fundamentals | ISACA |module 2/6 | in progress since august| fundamentals|[Doc link](https://example.com)
-Systems | CSA | ServiceNow |module 1| Planned |Part of implementer path |[Doc link](https://example.com)
-Computing & IT | Introduction to Computing and IT part 1 | Open University| Pending|Planned October |Part of my Bachelors degree |[Doc link](https://example.com)
-Business | Introduction to Business and Management | Open University | Pending | planned in October |Part of my Bachelors degree|[Doc link](https://example.com)
-Economics |Microeconomics | MItx | Pending | planned in September | part of Micromasters DEDP |[Doc link](https://example.com)
+Finance |FMVA/Financial Analysis | CFI | course 10/25 |⏳ july | aim to finish this course end october |[Doc link](https://example.com) 
+Finance | Business & Technology | ACCA | course 3/15 |📅 September |Exam in december |[Doc link](https://example.com)
+IT-GRC | IT Audit Fundamentals | ISACA |module 2/6 | ⏳ august| fundamentals|[Doc link](https://example.com)
+Systems | CSA | ServiceNow |module 1| 📅 September |Part of implementer path |[Doc link](https://example.com)
+Computing & IT | Introduction to Computing and IT part 1 | Open University| Pending|📅 October |Part of my Bachelors degree |[Doc link](https://example.com)
+Business | Introduction to Business and Management | Open University | Pending | 📅 October |Part of my Bachelors degree|[Doc link](https://example.com)
+Economics |Microeconomics | MItx | Pending | 📅 September | part of Micromasters DEDP |[Doc link](https://example.com)
 
 
 # Projects - Casestudies - Virtual internships - writings 
