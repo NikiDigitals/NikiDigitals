@@ -13,17 +13,18 @@ My key focus:
 This GitHub functions as my portfolio. It contains my notes, projects, and assignments from different subjects and courses. 
 It’s a space where I document my learning journey, experiment with ideas, and develop my skill set.
 
+<br>
 
 <h2> ⚡ Quick Access lists </h2>
 
    - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements.md) 
-     List of all Completed Certificates & Courses + links for validation purposes
+     List of all Completed Certificates & Courses.
 
    - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses.md) 
-     A list of all my past and  present certifications and courses.
+     A Quick access list to all my past and  present certifications and courses.
 
    - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
-     A list of all my projects, case studies and writings
+     A Quick access list to all my projects, case studies and writings.
 
      <br>
    - [☑ Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
@@ -33,18 +34,23 @@ It’s a space where I document my learning journey, experiment with ideas, and 
      Daily one-liners of what I’ve learned & practised.
  
 <br>
-<h2> 📂 Explore by main subject: </h2>
-
+<h2> ✨ Highlights</h2>
 
    - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)  
-     Documenting Hands-on projects, case studies, virtual internships, and applied work across IT, ERP, business and finance.  
-     Demonstrating my ability to translate learning into meaningful, practical outcomes.    
+     All my Hands-on projects, case studies, virtual internships, and applied work across IT, ERP, business and finance.  
+     Demonstrating my ability to translate learning into meaningful, practical outcomes.
      
+- [Placeholder](https://github)
+- [Placeholder](https://github)
+- [Placeholder](https://github)        
+<br>
+
+<h2> 🎓 Knowledge Hub: </h2>
+
    - [🎓 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
      Building IT foundations in systems, programming, cloud and data analytics.  
      Combining Academic modules and professional courses to prepare for complex enterprise solutions. 
 
-     
    - [⭕ IT Governance, Risk & Compliance](https://github.com/NikiDigitals/GRC)  
      Understanding IT governance, risk management, and security to create compliant systems.  
      Focuses on protecting enterprises while linking technical controls to business strategy.    
@@ -68,25 +74,14 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 
 ## 🎯 Current Focus 
 
-![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)   
-![ACCA](https://img.shields.io/badge/Accca-Member-red)    
+![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)    
+![ACCA](https://img.shields.io/badge/ACCA-Advanced_Diploma_in_Accounting_and_Business-red)   
 ![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green)   
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Implementer-yellow)      
-![ISACA](https://img.shields.io/badge/ISACA-CISA-purple)   
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Associate_Implementer-yellow)  
+![ISACA](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-purple)   
 
 👉 Complete [Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
-
-
-
 <br>
-<h2> ✨ Highlights</h2>
-
-- <b>Projects</b>
-  - [Placeholder](https://github)
-   
-- <b>Computing & It with business</b>
-  - [Placeholder](https://github)
-  - [Placeholder](https://github)
 
 <h2>  ⚠️ Disclaimer & Code of Practice (important)</h2>
 
