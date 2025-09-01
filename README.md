@@ -47,7 +47,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 
 <h2> 🎓 Knowledge Hub: </h2>
 
-   - [🎓 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
+   - [💻 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
      Building IT foundations in systems, programming, cloud and data analytics.  
      Combining Academic modules and professional courses to prepare for complex enterprise solutions. 
 
