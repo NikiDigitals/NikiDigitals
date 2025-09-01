@@ -82,8 +82,6 @@ status: ✅ Completed | ⏳ In Progress | 📅 Planned
 | Topic | Certificate path / Course name | Issuer | Status | Link |
 |-------|--------------------------------|--------|--------|------|
 |Others/Algebra  | Algebra: Elementary to Advanced /Equations & inequalities | Johns Hopkins University/Coursera |⏳|  
-|Others/Algebra  | Algebra: Elementary to Advanced / Functions & Applications | Johns Hopkins University/Coursera ||
-|Others/Algebra  | Algebra: Elementary to Advanced / Pplynomials and Roots | Johns Hopkins University/Coursera ||
 |Others/Micromaster | DEPD / Micro-economics |MItx |⏳|
 |Others/Micromaster | DEPD / Designing and Running Randomized Evaluations |MITx ||
 |Others/Micromaster | DEPD / Data Analysis for Social Science |MITx ||
