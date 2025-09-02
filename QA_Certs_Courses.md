@@ -6,7 +6,7 @@ status: ✅ Completed | ⏳ In Progress | 📅 Planned
 |-------|--------------------------------|--------|--------|------|
 |Computing| BCs / Introduction to Computing and IT part 1 |Open University |📅|
 |Computing| BCs / Introduction to Computing and IT part 2 |Open University |📅|
-
+|programming|introuction to Python|Udacity|⏳|[notes](https://github.com/NikiDigitals/Computing-IT/tree/main/notes)
 
 
 # IT Governance, Risk & Compliance 
