@@ -12,7 +12,7 @@ Systems | CSA fundamentals | ServiceNow |module 1| 📅 September |Part of imple
 Computing & IT | Introduction to Computing and IT part 1 | Open University| Pending|📅 October |Part of my Bachelors degree |[Doc link](https://example.com)
 Business | Introduction to Business and Management | Open University | Pending | 📅 October |Part of my Bachelors degree|[Doc link](https://example.com)
 Economics |Microeconomics | MItx | Pending | 📅 September | part of Micromasters DEDP |[Doc link](https://example.com)
-
+Computing & IT |Introduction to Python |Udacity |lesson 3//10 |⏳|programming with Python path|[main](https://github.com/NikiDigitals/Computing-IT/tree/main) [notes](https://github.com/NikiDigitals/Computing-IT/tree/main/notes) [journals](https://github.com/NikiDigitals/Computing-IT/tree/main/journals) 
 
 # Projects - Casestudies - Virtual internships - writings 
 
