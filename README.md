@@ -30,7 +30,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
    - [☑ Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
      Tracker of all my ongoing current activities. 
      
-   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook.) 
+   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
      Daily one-liners of what I’ve learned & practised.
  
 <br>
