@@ -43,34 +43,6 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 - [Placeholder](https://github)
 - [Placeholder](https://github)
 - [Placeholder](https://github)        
-<br>
-
-<h2> 🎓 Knowledge Hub: </h2>
-
-   - [💻 Computing & IT](https://github.com/NikiDigitals/Computing-IT)  
-     Building IT foundations in systems, programming, cloud and data analytics.  
-     Combining Academic modules and professional courses to prepare for complex enterprise solutions. 
-
-   - [⭕ IT Governance, Risk & Compliance](https://github.com/NikiDigitals/GRC)  
-     Understanding IT governance, risk management, and security to create compliant systems.  
-     Focuses on protecting enterprises while linking technical controls to business strategy.    
-          
-   - [💻 Enterprise Systems](https://github.com/NikiDigitals/systems)  
-      Mastering ERP and enterprise platforms to integrate IT with business processes.  
-     Focused on Sap, ServiceNow, Microsoft Dynamics, Oracle Cloud, and practical implementations for Real-World impact.   
-     
-   - [📊 Finance and accounting](https://github.com/NikiDigitals/Finance-and-accounting)  
-    Developing strong financial and management accounting skills, alongside finance fundamentals.  
-    Integrating theory with applied exercises, aligning Finance with enterprise systems and strategic decision-making.  
-
-   - [💼 Business & Management](https://github.com/NikiDigitals/Management-Business)  
-     Exploring strategy, entrepreneurship, innovation, and project management.  
-     Bridging academic insights with practical business applications for long-term growth.    
-     
-   - [📑 Other Subjects](https://github.com/NikiDigitals/others)  
-     Capturing exploratory and complementary topics.  
-     A space to experiment, connect ideas and expand my long-term professional vision. 
-<br>
 
 ## 🎯 Current Focus 
 
