@@ -22,16 +22,15 @@ This GitHub functions as my portfolio. It contains my notes, projects, and assig
    - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses.md) 
      A Quick access list to all my past and  present certification paths and courses.
 
-   - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
+   - [📑 Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
      A Quick access list to all my projects, case studies and writings.
-
- 
-<br>
-<h2> ✨ Highlights</h2>
 
    - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)  
      All my Hands-on projects, case studies, virtual internships, and applied work across IT, ERP, business and finance.  
      Demonstrating my ability to translate learning into meaningful, practical outcomes.
+
+     <br>
+<h2> ✨ Highlights</h2>
      
 - [Placeholder](https://github)
 - [Placeholder](https://github)
