@@ -11,7 +11,6 @@ My key focus:
 •	Technology-driven innovation
 
 This GitHub functions as my portfolio. It contains my notes, projects, and assignments from different subjects and courses. 
-It’s a space where I document my learning journey, experiment with ideas, and develop my skill set.
 
 <br>
 
@@ -26,12 +25,6 @@ It’s a space where I document my learning journey, experiment with ideas, and 
    - [📑 Projects, Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
      A Quick access list to all my projects, case studies and writings.
 
-     <br>
-   - [☑ Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
-     Tracker of all my ongoing current activities. 
-     
-   - [📓Study logbook](https://github.com/NikiDigitals/NikiDigitals/blob/main/Studylogbook) 
-     Daily one-liners of what I’ve learned & practised.
  
 <br>
 <h2> ✨ Highlights</h2>
@@ -52,8 +45,7 @@ It’s a space where I document my learning journey, experiment with ideas, and 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Associate_Implementer-yellow)  
 ![ISACA](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-purple)   
 
-👉 Complete [Tracker](https://github.com/NikiDigitals/NikiDigitals/blob/main/Tracker.md)
-<br>
+
 
 <h2>  ⚠️ Disclaimer & Code of Practice (important)</h2>
 
