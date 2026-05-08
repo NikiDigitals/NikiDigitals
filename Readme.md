@@ -22,10 +22,10 @@ Certifications in progress: AZ-900 (Microsoft Azure Fundamentals)
 
 | Layer | Platform | Purpose |
 |---|---|---|
-| Executive overview | Website | Vision and milestones |
-| Deep documentation | GitBook | Architecture and research |
+| Executive overview | Website (Coming) | Vision and milestones |
+| Deep documentation | GitBook (Coming) | Architecture and research |
 | Code and evidence | GitHub | Everything you see here |
-| Thought leadership | LinkedIn | Articles and findings |
+| Thought leadership | LinkedIn (Coming) | Articles and findings |
 
 ---
 
