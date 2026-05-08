@@ -11,7 +11,7 @@ processes, and dedicated AI agent.
 
 - A modular, cloud-native personal ERP on Microsoft Azure
 - A multi-agent AI orchestration layer across all life domains
-- A 5-year public build from absolute beginner to enterprise architect
+- A long term public build from absolute beginner to enterprise architect
 
 ## Current focus
 
