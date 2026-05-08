@@ -1,90 +1,65 @@
-<h2>Welcome on the Github of Nikidigitals</h2>
+<h2>Niki Digitals</h2>
+<b>Engineering • Architecture • Data • AI • Operational Systems</b><br>
+Building a long-term ecosystem of projects focused on cloud, intelligent systems, analytics, governance, and enterprise architecture.
 
-My name is Nicolette. As a BSc (Hons) Computing and IT with Business student and ACCA candidate, I’m building expertise through academic and professional studies, certifications, and hands-on projects.
-My passion lies in bridging finance and technology to transform the digital and financial landscape of global business and empowering organisations to lead with agility, insight, and future-focused performance.
+<h2>🧠 About</h2>
 
-My key focus:
-•	Digital finance
-•	ERP and enterprise systems integration
-•  IT Governance, Risk Management, and Compliance
-•	Secure information systems
-•	Technology-driven innovation
+Niki Digitals is a continuously evolving engineering and architecture ecosystem documenting the journey from foundational learning to building production-grade systems and intelligent operational platforms.
 
-This GitHub functions as my portfolio. It contains my notes, projects, and assignments from different subjects and courses. 
+The ecosystem combines:
 
-<br>
+•	 cloud infrastructure  
+•	 data analytics  
+•	 finance & operational systems  
+•	 AI experimentation  
+•	 enterprise architecture  
+•	 governance & security  
+•	 research & documentation  
 
-<h2> ⚡ Quick Access lists </h2>
+Projects range from finance dashboards, analytics platforms, and infrastructure labs to long-term architecture and intelligent systems initiatives.
+<br><br>
+<h2>🚀 Flagship Project — Life Enterprise System (LES)</h2>
 
-   - [🏆 Achievements](https://github.com/NikiDigitals/NikiDigitals/blob/main/Achievements.md) 
-     List of all Completed Certificates & Courses.
+The Life Enterprise System (LES) is a long-term enterprise architecture and intelligent systems project exploring how principles from ERP systems, cloud infrastructure, AI, governance, analytics, and automation can be applied to personal operational systems.
 
-   - [📑 Certifications & Courses](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Certs_Courses.md) 
-     A Quick access list to all my past and  present certification paths and courses.
-
-   - [📑 Case Studies & Writings](https://github.com/NikiDigitals/NikiDigitals/blob/main/QA_Projects_Case_Write.md) 
-     A Quick access list to all my projects, case studies and writings.
-
-   - [📁 Portfolio Projects](https://github.com/NikiDigitals/Portfolio_Projects)  
-     All my Hands-on projects, case studies, virtual internships, and applied work across IT, ERP, business and finance.  
-     Demonstrating my ability to translate learning into meaningful, practical outcomes.
-
-     <br>
-<h2> ✨ Highlights</h2>
-     
-- [Placeholder](https://github)
-- [Placeholder](https://github)
-- [Placeholder](https://github)        
-
-## 🎯 Current Focus 
-
-![Studying](https://img.shields.io/badge/OU_BCs-Computing_&_IT_With_Business-blue)    
-![ACCA](https://img.shields.io/badge/ACCA-Advanced_Diploma_in_Accounting_and_Business-red)   
-![MITx](https://img.shields.io/badge/MITx-MicroMasters_DEDP-green)   
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Associate_Implementer-yellow)  
-![ISACA](https://img.shields.io/badge/ISACA-Certified_Information_Systems_Auditor-purple)   
+LES functions simultaneously as:  
+•	 a personal operating system  
+•	 a technical and architectural portfolio  
+•	 a long-term learning journey  
+•	 a research and documentation ecosystem  
+<br><br>
+<h2>🎯 Current Focus</h2>
+•	  Microsoft Azure  <br>  
+•	  Enterprise Systems & ERP Architecture <br>   
+•	  Data Architecture & Analytics   <br> 
+•	  AI & Intelligent Systems    <br>
+•	  Governance & Security    <br>
+•	  Financial & Operational Systems   <br> 
+•	  Long-term Systems Design  <br>  
+<br><br>
+<h2>🛠️ Active Areas</h2>  
+•
 
 
-
-<h2>  ⚠️ Disclaimer & Code of Practice (important)</h2>
-
-- All notes, projects, and case studies here are part of my personal learning journey.
-- They are not official study materials and may contain mistakes or incomplete information.
-- My notes may reference official course material, but everything is rewritten in my own words.
-- Many projects/assignments are inspired by official prompts, case studies, or datasets;
-  However, everything you see here is my independent work and interpretation.
-- I respect academic integrity: I never post ongoing assignments, exams, or subscription-only material.
-- All external resources are properly credited, and all work here is my own creation unless otherwise stated.
-
-👉 Full details [Code of Practice](https://github.com/NikiDigitals/NikiDigitals/blob/main/Code%20of%20Practice.pdf)
-
-<img width="603" height="10" alt="image" src="https://github.com/user-attachments/assets/4658e820-34f4-4185-9df9-ec4e642f11e5" />
-
-<h2> 🤝 Connect with me:</h2>
-
-[<img align="left" alt="NmLangendam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NMLangendam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/niki_digitals
-[linkedin]: https://linkedin.com/in/nmlangendam/
+<br><br>
+<h2>📂 Ecosystem Projects </h2>    
+•	  Intelligent Systems & AI Experiments <br> 
+•	  Finance & Analytics Dashboards  <br>
+•	  Cloud Infrastructure Labs  <br>
+•	  Cybersecurity & Governance Projects <br> 
+•	  ERP & Enterprise Architecture Research  <br>
+•	  Operational & Workflow Systems  <br>
+•	  Data & Automation Projects  <br>
+•	  Life Enterprise System (LES)  <br>
+ <br><br>
+<h2>⚙️ Philosophy</h2>  
+•	  No shortcuts on understanding <br>  
+•	  Systems before tools  <br>
+•	  Documentation alongside development<br>  
+•	  Production-quality thinking from the beginning <br> 
+•	  Long-term architectural and operational thinking  <br>
+<br><br>
+<h2>📍 Status</h2>  
+Building foundations and documenting the journey publicly.  
 
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://getdrawings.com/vectors/line-break-vector-27.png" height="10%" width="80%" alt="Disk Sanitization Steps"/>
-
-[<img align="left" alt="NMLAngendam | Website" width="24px" src="https://www.svgrepo.com/show/447845/website-click.svg" />][Website]
-[website]: http://www.nikidigitals.com
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
