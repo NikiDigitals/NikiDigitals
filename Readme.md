@@ -1,6 +1,6 @@
 # Welcome to Niki Digitals!
 
-I am building the **Life Enterprise System (LES)** — an enterprise-grade ERP 
+I am building the **Life Enterprise System (LES)**, an enterprise-grade ERP 
 architected around my life as the organisation.
 
 Every life domain — Finance, Health, Education, Projects, Relationships, 
@@ -11,7 +11,7 @@ processes, and dedicated AI agent.
 
 - A modular, cloud-native personal ERP on Microsoft Azure
 - A multi-agent AI orchestration layer across all life domains
-- A long term public build from absolute beginner to enterprise architect
+- A long-term public build from an absolute beginner to an enterprise architect
 
 ## Current focus
 
